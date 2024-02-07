@@ -49,7 +49,8 @@ This is a simple registration form application built using Python and Tkinter. I
 
 ## Screenshots
 
-Include some screenshots of your registration form app in action here.
+![registration](https://github.com/jmugambwa1/registration-form/assets/157279590/11b7a9d1-296d-4b97-90ce-103f7efd5fbc)
+
 
 ## License
 
